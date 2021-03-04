@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 
 ### Some of my Stats:
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=tom-m-rogers&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-ashna&show_icons=true&hide_border=true&theme=vision-friendly-dark&langs_count=8&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=tom-m-rogers&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&custom_title=Github%20Stats&line_height=24)](https://github.com/anuraghazra/github-readme-stats)[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tom-m-rogers&show_icons=true&hide_border=true&theme=vision-friendly-dark&langs_count=8&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 👯 I’m looking to collaborate on ...
